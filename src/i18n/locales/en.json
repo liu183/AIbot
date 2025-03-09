@@ -1,0 +1,31 @@
+{
+  "app": {
+    "title": "AI Assistant",
+    "newChat": "New Chat",
+    "welcome": {
+      "title": "How can I help you today?",
+      "subtitle": "Ask me anything - I'm here to assist!"
+    }
+  },
+  "tools": {
+    "chat": {
+      "name": "AI Chat",
+      "description": "Intelligent conversation assistant"
+    },
+    "editor": {
+      "name": "Text Editor",
+      "description": "AI-powered text editing and refinement"
+    },
+    "chart": {
+      "name": "Chart Generator",
+      "description": "Create charts and visualizations"
+    }
+  },
+  "input": {
+    "placeholder": "Type your message for {{tool}}...",
+    "hint": "Press Enter to send, Shift + Enter for new line"
+  },
+  "error": {
+    "apiError": "I apologize, but I encountered an error while processing your request. Please try again later."
+  }
+}

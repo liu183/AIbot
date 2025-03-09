@@ -1,0 +1,31 @@
+{
+  "app": {
+    "title": "AI 助手",
+    "newChat": "新对话",
+    "welcome": {
+      "title": "今天我能帮您什么？",
+      "subtitle": "问我任何问题 - 我随时为您服务！"
+    }
+  },
+  "tools": {
+    "chat": {
+      "name": "AI 对话",
+      "description": "智能对话助手"
+    },
+    "editor": {
+      "name": "文本编辑",
+      "description": "AI 驱动的文本编辑与优化"
+    },
+    "chart": {
+      "name": "图表生成",
+      "description": "创建图表和可视化"
+    }
+  },
+  "input": {
+    "placeholder": "输入您想对{{tool}}说的话...",
+    "hint": "按回车发送，Shift + 回车换行"
+  },
+  "error": {
+    "apiError": "抱歉，处理您的请求时遇到错误。请稍后重试。"
+  }
+}
